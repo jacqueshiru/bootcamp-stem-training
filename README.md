@@ -3,3 +3,5 @@
 -Learning python
 -Installing python
 ##Day two
+-Manipulating data types
+##Day three
