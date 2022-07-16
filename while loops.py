@@ -1,4 +1,7 @@
 i =3
+"""
+    While loops run code as long as a condition is true
+"""
 while i<= 15   
 print (I)
 i+= 1
